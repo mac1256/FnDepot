@@ -1,7 +1,7 @@
 {
   "moontv": {
     "display_name": "moontv",
-    "desc": "🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。。",
+    "desc": "moontv容器版<br/>🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。。",
     "labels": "影视",
     "version": "1.0",
     "author": "mac1256",
