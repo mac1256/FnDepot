@@ -11,7 +11,7 @@
     "install_type": "存储空间",
     "size": "0.2",
     "history": {
-      "v1.0": "修复 webkit 下播放器控件的展示 bug"
+      "v1.0": "初始版本"
     }
    },
    "libretv": {
