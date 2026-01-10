@@ -1,1 +1,1 @@
-filebrowser 飞牛中非常实用的文件管理
+filebrowser 飞牛中非常实用的文件管理工具，可以编辑修改系统文件，无需ssh方式
