@@ -30,18 +30,18 @@
     }
    },
    "filebrowser": {
-     "display_name": "FileBrowser",
-     "desc": "FileBrowser，一个在飞牛中非常实用的文件管理软件。。。",
-     "labels": "文件管理",
-     "version": "1.0",
-     "author": "mac1256",
-     "author_url": "https://github.com/mac1256/FnDepot",
-     "download_url": "",
-     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
-     "install_type": "存储空间",
-     "size": "0.2",
-     "history": {
-       "v2.52": "版本"
+    "display_name": "FileBrowser",
+    "desc": "FileBrowser，一个在飞牛中非常实用的文件管理软件。。。",
+    "labels": "文件管理",
+    "version": "1.0",
+    "author": "mac1256",
+    "author_url": "https://github.com/mac1256/FnDepot",
+    "download_url": "",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "install_type": "存储空间",
+    "size": "0.2",
+    "history": {
+      "v2.52.0": "初始版本"
     }
    }
   }
