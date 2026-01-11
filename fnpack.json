@@ -45,7 +45,7 @@
     }
    },
    "pansou": {
-    "display_name": "PanSou",
+    "display_name": "PanSou盘搜",
     "desc": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。。。。",
     "labels": "工具,搜索",
     "version": "2.0",
