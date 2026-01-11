@@ -43,5 +43,20 @@
     "history": {
       "v2.52.0": "初始版本"
     }
+   },
+   "pansou": {
+    "display_name": "PanSou",
+    "desc": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。。。。",
+    "labels": "文件管理",
+    "version": "2.0",
+    "author": "xiaocai",
+    "author_url": "https://github.com/mac1256/FnDepot",
+    "download_url": "",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "install_type": "存储空间",
+    "size": "0.2",
+    "history": {
+      "v2.0": "初始版本"
+    }
    }
-  }
+ }
