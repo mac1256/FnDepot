@@ -58,5 +58,20 @@
     "history": {
       "v2.0": "初始版本"
     }
+   },
+   "homeassistant": {
+    "display_name": "HomeAssistant",
+    "desc": "HomeAssistant,预装HACS极速版、米家、天气预报、文件管理等常用集成等<br/>使用hacn镜像打包",
+    "labels": "工具,智能家居",
+    "version": "1.0",
+    "author": "mac1256",
+    "author_url": "https://github.com/mac1256/FnDepot",
+    "download_url": "",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "install_type": "存储空间",
+    "size": "1.15",
+    "history": {
+      "v1.0": "初始版本"
+    }
    }
  }
