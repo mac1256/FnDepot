@@ -76,8 +76,7 @@
    },
    "music_tag_web": {
     "display_name": "Music_tag_web",
-    "desc": "Music_tag_web是一款可以编辑歌曲的标题，专辑，艺术家，歌词，封面等信息的音乐标签编辑器程序， 支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, M4A, OGG, MPC, OPUS, WMA, DSF, MP4等音频格式。
-默认用户名admin，密码admin",
+    "desc": "Music_tag_web是一款可以编辑歌曲的标题，专辑，艺术家，歌词，封面等信息的音乐标签编辑器程序， 支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, M4A, OGG, MPC, OPUS, WMA, DSF, MP4等音频格式。默认用户名admin，密码admin",
     "labels": "工具,多媒体",
     "version": "1.0",
     "author": "mac1256",
