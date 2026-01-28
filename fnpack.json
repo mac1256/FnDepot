@@ -88,5 +88,20 @@
     "history": {
       "v1.0": "初始版本"
     }
+   },
+   "mitv": {
+    "display_name": "MoonTV有源版",
+    "desc": "基于moontv，自带影视源，无直播功能，如果首页图片无法显示，请更改豆瓣代理为阿里云",
+    "labels": "影视,媒体播放",
+    "version": "1.0",
+    "author": "mac1256",
+    "author_url": "https://github.com/mac1256/FnDepot",
+    "download_url": "",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "install_type": "存储空间",
+    "size": "0.15",
+    "history": {
+      "v1.0": "初始版本"
+    }
    }
  }
