@@ -106,7 +106,7 @@
    },
    "decotv": {
     "display_name": "DecoTV",
-    "desc": "基于最新版本LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】<br/>影视源：<br/>https://pz.v88.qzz.io?format=2&source=jin18
+    "desc": "基于最新版本LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。<br/>影视源：<br/>https://pz.v88.qzz.io?format=2&source=jin18
 <br/>https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt",
     "labels": "影视,直播,媒体播放",
     "version": "1.2",
