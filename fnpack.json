@@ -133,7 +133,7 @@
     "history": {
       "v1.3": "初始版本"
     }
-   ,
+   },
    "nodejs_v22-arm": {
     "display_name": "Nodejs_v22-arm",
     "desc": "Nodejs_v22-arm版本 Nodejs@是一个免费、开源、跨平台的JavaScript运行时环境，允许开发人员创建服务器、Web应用程序、命令行工具和脚本。",
