@@ -133,5 +133,20 @@
     "history": {
       "v1.0": "初始版本"
     }
+   },
+   "xunlei-arm": {
+    "display_name": "迅雷-arm",
+    "desc": "arm版本，docker迅雷",
+    "labels": "ARM,下载",
+    "version": "1.0",
+    "author": "mac1256",
+    "author_url": "https://github.com/mac1256/FnDepot",
+    "download_url": "",
+    "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
+    "install_type": "存储空间",
+    "size": "0.15",
+    "history": {
+      "v1.0": "初始版本"
+    }
    }
  }
