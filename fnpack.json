@@ -95,12 +95,12 @@
     "version": "1.2",
     "desc": "功能同moontv/lunatv,\n基于最新版本LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。<br/>配置订阅url：<br/>https://pz.v88.qzz.io?format=2&source=jin18 <br/>https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt",
     "distributor": "mac1256",
-    "labels": "影视,直播,媒体播放",
-    "author_url": "https://github.com/mac1256/FnDepot",
-    "download_url": "",
+    "distributor_url": "https://github.com/mac1256/FnDepot",
     "bug_report_url": "https://qm.qq.com/q/4MKTzfs9os",
-    "install_type": "存储空间",
+    "labels": "影视,直播,媒体播放",
     "size": "0.15",
+    "download_url": "",
+    "install_type": "存储空间",
     "history": {
       "v1.3": "初始版本"
     }
